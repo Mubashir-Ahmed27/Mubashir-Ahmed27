@@ -6,9 +6,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;Future+Full+Stack+Dev;Beyond+AI%2FML+Engineer" alt="Typing Animation" />
 
-<!-- Animated divider -->
-<img src="https://media.giphy.com/media/ObNTQZHyImJ0c/giphy.gif" width="50" alt="code" />
-
 </div>
 
 ---
@@ -81,8 +78,6 @@ I'm a dedicated **Frontend Developer** with expertise in **HTML, CSS, and JavaSc
 
 ## 🎨 Featured Projects
 
-<img align="left" alt="Projects" width="250" src="https://media.giphy.com/media/SvckSwSoP8TROonpXT/giphy.gif" />
-
 ### 🌟 Top Projects
 
 | Project | Description | Tech Stack |
@@ -118,9 +113,9 @@ I'm a dedicated **Frontend Developer** with expertise in **HTML, CSS, and JavaSc
 
 ## 📖 Learning & Resources
 
-<img align="right" alt="Learning" width="250" src="https://media.giphy.com/media/L1R1tvI9wayy0JFOLR/giphy.gif" />
+<!-- <img align="right" alt="Learning" width="250" src="https://media.giphy.com/media/L1R1tvI9wayy0JFOLR/giphy.gif" /> -->
 
-- 🐙 [**Prompt-Engineering-Guide**](https://github.com/Mubashir-Ahmed27/Prompt-Engineering-Guide) - Guides, papers, lectures, notebooks and resources
+- 🐙 [**Prompt-Engineering-Guide**](https://github.com/Mubashir-Ahmed27/Prompt-Engineering-Guide) - Guides, papers, lectures, notebooks, and resources
 - 📚 [**modern-web-hybrid-app-course**](https://github.com/Mubashir-Ahmed27/modern-web-hybrid-app-course) - Course materials and learning resources
 
 <br clear="right" />
@@ -159,36 +154,6 @@ I'm a dedicated **Frontend Developer** with expertise in **HTML, CSS, and JavaSc
 
 ---
 
-## 📚 Learning Roadmap
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────┐
-│         🎓 MY LEARNING JOURNEY                      │
-├─────────────────────────────────────────────────────┤
-│                                                      │
-│  ✅ HTML/CSS/JavaScript Basics                     │
-│         ↓                                           │
-│  🚀 Frontend Mastery (Current)                      │
-│         ↓                                           │
-│  📍 Full-Stack Development                         │
-│     (Node.js + Express + MongoDB)                   │
-│         ↓                                           │
-│  Advanced Concepts                                  │
-│  (TypeScript, Docker, Deployment)                  │
-│         ↓                                           │
-│  Cloud & DevOps (AWS, CI/CD)                       │
-│         ↓                                           │
-│  🎯 AI/ML Integration & Advanced Topics            │
-│                                                      │
-└─────────────────────────────────────────────────────┘
-```
-
-</div>
-
----
-
 ## 💡 Islamic Quote
 
 <div align="center">
@@ -207,8 +172,6 @@ This quote reminds me that true knowledge is about applying what we learn for th
 ## 🤝 Let's Connect & Collaborate
 
 <div align="center">
-
-<img src="https://media.giphy.com/media/Y4ak9Ki2GZYaLfbSeDwI/giphy.gif" width="200" alt="collaboration" />
 
 ### I'm Always Excited To:
 
