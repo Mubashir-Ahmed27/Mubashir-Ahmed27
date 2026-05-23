@@ -26,7 +26,7 @@
 
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-I'm a dedicated **Frontend Developer** with expertise in **HTML, CSS, and JavaScript**, currently expanding my skills into full-stack development. I'm committed to understanding **CS Fundamentals** and building scalable, efficient solutions.
+I'm a dedicated **Frontend Developer** with expertise in **HTML, CSS, and JavaScript**, currently expanding my skills into full-stack development. I'm committed to understanding **CS Fundamentals** and building scalable applications.
 
 - 🎯 **Current Focus**: Mastering full-stack development and web architecture
 - 🧠 **Interests**: Modern web technologies, clean code, user-centric design
@@ -145,6 +145,16 @@ I'm a dedicated **Frontend Developer** with expertise in **HTML, CSS, and JavaSc
 <div align="center">
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mubashir-Ahmed27&theme=radical&hide_border=true)
+
+</div>
+
+---
+
+## 🐍 GitHub Contribution Snake Chart
+
+<div align="center">
+
+![snake gif](https://github.com/Mubashir-Ahmed27/Mubashir-Ahmed27/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
