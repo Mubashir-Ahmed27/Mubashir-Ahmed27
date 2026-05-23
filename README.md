@@ -4,7 +4,7 @@
 
 ![Visitors](https://komarev.com/ghpvc/?username=Mubashir-Ahmed27)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;Future+Full+Stack+Dev;Beyond+AI%2FML+Engineer" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;Future+Full+Stack+Dev;Beyond+AI%2FML+Engineer" alt="Typing SVG" />
 
 </div>
 
@@ -26,7 +26,7 @@
 
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-I'm a dedicated **Frontend Developer** with expertise in **HTML, CSS, and JavaScript**, currently expanding my skills into full-stack development. I'm committed to understanding **CS Fundamentals** and building applications that make a difference.
+I'm a dedicated **Frontend Developer** with expertise in **HTML, CSS, and JavaScript**, currently expanding my skills into full-stack development. I'm committed to understanding **CS Fundamentals** and building scalable, efficient solutions.
 
 - 🎯 **Current Focus**: Mastering full-stack development and web architecture
 - 🧠 **Interests**: Modern web technologies, clean code, user-centric design
@@ -124,13 +124,26 @@ I'm a dedicated **Frontend Developer** with expertise in **HTML, CSS, and JavaSc
 
 ## 📊 GitHub Statistics
 
+### 📈 GitHub Stats
+
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mubashir-Ahmed27&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 
+</div>
+
+### 💬 Top Languages
+
+<div align="center">
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mubashir-Ahmed27&layout=compact&theme=radical&hide_border=true)
 
-<!-- Streak Stats -->
+</div>
+
+### 🔥 GitHub Streak
+
+<div align="center">
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mubashir-Ahmed27&theme=radical&hide_border=true)
 
 </div>
