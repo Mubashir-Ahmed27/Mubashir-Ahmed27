@@ -164,14 +164,71 @@ I'm a dedicated **Frontend Developer** with expertise in **HTML, CSS, and JavaSc
 
 <div align="center">
 
-| Goal | Status | Progress |
-|------|--------|----------|
-| 🏗️ Building responsive web applications | 🚀 Active | ████████░░ 80% |
-| 📚 Learning backend technologies | 🚀 Active | ██████░░░░ 60% |
-| ⚛️ Master React & Full-Stack | 📌 Starting | ██░░░░░░░░ 20% |
-| 🐍 Python & AI/ML Fundamentals | 📌 Starting | ██░░░░░░░░ 15% |
-| 🐳 Docker & DevOps | 📌 Planned | ░░░░░░░░░░ 0% |
-| ☁️ AWS & Cloud Computing | 📌 Planned | ░░░░░░░░░░ 0% |
+<style>
+  @keyframes progress-animation {
+    0% { width: 0%; }
+    100% { width: var(--progress); }
+  }
+  
+  .progress-container {
+    background-color: #0d1117;
+    border-radius: 10px;
+    margin: 8px 0;
+    overflow: hidden;
+    border: 1px solid #30363d;
+  }
+  
+  .progress-bar {
+    height: 24px;
+    background: linear-gradient(90deg, #00d9ff, #00a8ff);
+    animation: progress-animation 2s ease-in-out forwards;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    padding-right: 8px;
+    color: #0d1117;
+    font-weight: bold;
+    font-size: 12px;
+    box-shadow: 0 0 10px rgba(0, 217, 255, 0.5);
+    border-radius: 10px;
+  }
+</style>
+
+**🏗️ Building responsive web applications**
+<div class="progress-container">
+  <div class="progress-bar" style="--progress: 80%; width: 80%;">80%</div>
+</div>
+
+**📚 Learning backend technologies**
+<div class="progress-container">
+  <div class="progress-bar" style="--progress: 60%; width: 60%;">60%</div>
+</div>
+
+**⚛️ Master React & Full-Stack**
+<div class="progress-container">
+  <div class="progress-bar" style="--progress: 20%; width: 20%;">20%</div>
+</div>
+
+**🐍 Python & AI/ML Fundamentals**
+<div class="progress-container">
+  <div class="progress-bar" style="--progress: 15%; width: 15%;">15%</div>
+</div>
+
+**🐳 Docker & DevOps**
+<div class="progress-container">
+  <div class="progress-bar" style="--progress: 0%; width: 5%;">0%</div>
+</div>
+
+**☁️ AWS & Cloud Computing**
+<div class="progress-container">
+  <div class="progress-bar" style="--progress: 0%; width: 5%;">0%</div>
+</div>
+
+| Status | Description |
+|--------|-------------|
+| 🚀 Active | Currently working on this goal |
+| 📌 Starting | Just beginning to explore |
+| 📌 Planned | On the roadmap for future |
 
 </div>
 
