@@ -9,9 +9,16 @@
 <p><strong>Frontend Developer | Full Stack Dev Learner | Aspiring Full Stack Architect</strong></p>
 <p>Passionate about building beautiful, functional web applications and exploring modern web technologies</p>
 
+<!-- Animated divider -->
+<img src="https://media.giphy.com/media/ObNTQZHyImJ0c/giphy.gif" width="50" alt="code" />
+
+</div>
+
 ---
 
 ## 📞 Connect With Me
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mubashir-ahmed-41475b367/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mubashirahmed12569@gmail.com)
@@ -23,6 +30,8 @@
 
 ## 🚀 About Me
 
+<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
 I'm a dedicated **Frontend Developer** with expertise in **HTML, CSS, and JavaScript**, currently expanding my skills into full-stack development. I'm committed to understanding **CS Fundamentals** and staying ahead with emerging technologies in **AI/ML**.
 
 - 🎯 **Current Focus**: Mastering full-stack development and web architecture
@@ -31,38 +40,51 @@ I'm a dedicated **Frontend Developer** with expertise in **HTML, CSS, and JavaSc
 - 💡 **Passion**: Creating elegant solutions to real-world problems
 - 🤝 **Community**: Always open to collaboration and knowledge sharing
 
+<br clear="right" />
+
 ---
 
 ## 💻 Tech Stack & Tools
 
 ### Currently Working With
-<div>
-  <img src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 </div>
 
 ### Learning & Exploring
-<div style="margin-top: 10px;">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+
+<div align="center" style="margin-top: 15px;">
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 </div>
 
 ### Future Learning Path
-<div style="margin-top: 10px;">
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" alt="AWS" />
-  <img src="https://img.shields.io/badge/AI%2FML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI/ML" />
+
+<div align="center" style="margin-top: 15px;">
+
+![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
 </div>
 
 ---
 
 ## 🎨 Featured Projects
+
+<img align="left" alt="Projects" width="250" src="https://media.giphy.com/media/SvckSwSoP8TROonpXT/giphy.gif" />
 
 ### 🌟 Top Projects
 
@@ -74,25 +96,32 @@ I'm a dedicated **Frontend Developer** with expertise in **HTML, CSS, and JavaSc
 | [**Chess-Game**](https://github.com/Mubashir-Ahmed27/Chess-Game) | Interactive chess game implementation | HTML, CSS, JavaScript |
 | [**Adhan-App**](https://github.com/Mubashir-Ahmed27/Adhan-App) | Prayer times application | HTML, CSS, JavaScript |
 
+<br clear="left" />
+
 ### 🏗️ Other Notable Projects
 
-- [**Digital-Clock**](https://github.com/Mubashir-Ahmed27/Digital-Clock) - JavaScript clock with real-time updates
-- [**Random-Color-Generator**](https://github.com/Mubashir-Ahmed27/Random-Color-Generator) - Interactive color palette tool
-- [**Restaurant-App**](https://github.com/Mubashir-Ahmed27/Restaurant-App) - Restaurant management interface
-- [**Zomato-clone**](https://github.com/Mubashir-Ahmed27/Zomato-clone) - Food delivery app UI clone
-- [**Salt-n-Pepper-clone**](https://github.com/Mubashir-Ahmed27/Salt-n-Pepper-clone) - Restaurant website clone
-- [**3-Themes**](https://github.com/Mubashir-Ahmed27/3-Themes) - Multiple theme implementation
-- [**Calculator**](https://github.com/Mubashir-Ahmed27/Calculator) - Functional calculator application
-- [**Student-Registration-Form**](https://github.com/Mubashir-Ahmed27/Student-Registration-Form) - Form validation and handling
-- [**Curator**](https://github.com/Mubashir-Ahmed27/Curator) - Content curation application
-- [**Positivus**](https://github.com/Mubashir-Ahmed27/Positivus) - Marketing agency website
+<div align="center">
+
+```
+📱 Digital-Clock          🎨 Random-Color-Generator
+🍔 Restaurant-App         🍕 Zomato-clone
+🧂 Salt-n-Pepper-clone    🎭 3-Themes
+🧮 Calculator             📋 Student-Registration-Form
+🖼️ Curator                📊 Positivus
+```
+
+</div>
 
 ---
 
 ## 📖 Learning & Resources
 
-- [**Prompt-Engineering-Guide**](https://github.com/Mubashir-Ahmed27/Prompt-Engineering-Guide) - 🐙 Guides, papers, lectures, notebooks and resources for prompt engineering
-- [**modern-web-hybrid-app-course**](https://github.com/Mubashir-Ahmed27/modern-web-hybrid-app-course) - Course materials and learning resources
+<img align="right" alt="Learning" width="250" src="https://media.giphy.com/media/L1R1tvI9wayy0JFOLR/giphy.gif" />
+
+- 🐙 [**Prompt-Engineering-Guide**](https://github.com/Mubashir-Ahmed27/Prompt-Engineering-Guide) - Guides, papers, lectures, notebooks and resources
+- 📚 [**modern-web-hybrid-app-course**](https://github.com/Mubashir-Ahmed27/modern-web-hybrid-app-course) - Course materials and learning resources
+
+<br clear="right" />
 
 ---
 
@@ -100,9 +129,12 @@ I'm a dedicated **Frontend Developer** with expertise in **HTML, CSS, and JavaSc
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mubashir-Ahmed27&show_icons=true&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mubashir-Ahmed27&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mubashir-Ahmed27&layout=compact&theme=radical&hide_border=true)
+
+<!-- Streak Stats -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mubashir-Ahmed27&theme=radical&hide_border=true)
 
 </div>
 
@@ -110,51 +142,94 @@ I'm a dedicated **Frontend Developer** with expertise in **HTML, CSS, and JavaSc
 
 ## 🎓 What I'm Working On
 
-- ✅ Building responsive and accessible web applications
-- ✅ Learning backend technologies and databases
-- ✅ Exploring full-stack development frameworks (React, Node.js, Express)
-- ✅ Mastering TypeScript and advanced JavaScript patterns
-- ✅ Understanding AI/ML fundamentals
-- ✅ Contributing to open-source projects
-- ✅ Building scalable cloud-based applications
+<div align="center">
+
+| Goal | Status | Progress |
+|------|--------|----------|
+| 🏗️ Building responsive web applications | 🚀 Active | ████████░░ 80% |
+| 📚 Learning backend technologies | 🚀 Active | ██████░░░░ 60% |
+| ⚛️ Master React & Full-Stack | 📌 Starting | ██░░░░░░░░ 20% |
+| 🐍 Python & AI/ML Fundamentals | 📌 Starting | ██░░░░░░░░ 15% |
+| 🐳 Docker & DevOps | 📌 Planned | ░░░░░░░░░░ 0% |
+| ☁️ AWS & Cloud Computing | 📌 Planned | ░░░░░░░░░░ 0% |
+
+</div>
 
 ---
 
 ## 📚 Learning Roadmap
 
+<div align="center">
+
 ```
-Frontend Mastery
-    ↓
-Full-Stack Development (Node.js + Express + MongoDB)
-    ↓
-Advanced Concepts (TypeScript, Docker, Deployment)
-    ↓
-Cloud & DevOps (AWS, CI/CD)
-    ↓
-AI/ML Integration & Advanced Topics
+┌─────────────────────────────────────────────────────┐
+│         🎓 MY LEARNING JOURNEY                      │
+├─────────────────────────────────────────────────────┤
+│                                                      │
+│  ✅ HTML/CSS/JavaScript Basics                     │
+│         ↓                                           │
+│  🚀 Frontend Mastery (Current)                      │
+│         ↓                                           │
+│  📍 Full-Stack Development                         │
+│     (Node.js + Express + MongoDB)                   │
+│         ↓                                           │
+│  Advanced Concepts                                  │
+│  (TypeScript, Docker, Deployment)                  │
+│         ↓                                           │
+│  Cloud & DevOps (AWS, CI/CD)                       │
+│         ↓                                           │
+│  🎯 AI/ML Integration & Advanced Topics            │
+│                                                      │
+└─────────────────────────────────────────────────────┘
 ```
+
+</div>
 
 ---
 
 ## 💡 Islamic Quote
 
-> **"اللهم انفعنا بما علمتنا وعلمنا ما ينفعنا وزدنا علماً"**
+<div align="center">
+
+> ✨ **"اللهم انفعنا بما علمتنا وعلمنا ما ينفعنا وزدنا علماً"** ✨
 >
-> *"O Allah, benefit us with what You have taught us, teach us what will benefit us, and increase us in knowledge."* — Prophet Muhammad (ﷺ)
+> ### *"O Allah, benefit us with what You have taught us, teach us what will benefit us, and increase us in knowledge."* 
+> — Prophet Muhammad (ﷺ)
 
 This quote reminds me that true knowledge is about applying what we learn for the benefit of ourselves and others.
+
+</div>
 
 ---
 
 ## 🤝 Let's Connect & Collaborate
 
-I'm always excited to:
+<div align="center">
+
+<img src="https://media.giphy.com/media/Y4ak9Ki2GZYaLfbSeDwI/giphy.gif" width="200" alt="collaboration" />
+
+### I'm Always Excited To:
+
 - 💬 Discuss web development and technology
 - 🤝 Collaborate on interesting projects
 - 📝 Share knowledge and learn from others
 - 🚀 Build something amazing together
 
-**Feel free to reach out!**
+</div>
+
+---
+
+## 🏆 Fun Facts
+
+<div align="center">
+
+- ⚡ I believe that *consistent practice* beats *intensive bursts*
+- 🎮 I build projects to learn, not just for the sake of building
+- 📖 I love reading documentation and understanding the "why" behind code
+- 🌍 I'm passionate about making technology accessible to everyone
+- 🤲 I believe in giving back to the community
+
+</div>
 
 ---
 
@@ -163,5 +238,19 @@ I'm always excited to:
 ### Made with ❤️ by Mubashir Ahmed
 
 *"Every expert was once a beginner. Keep learning, keep growing!"* 🚀
+
+---
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100" alt="happy coding" />
+
+**Happy Coding! 💻**
+
+</div>
+
+---
+
+<div align="center">
+
+### 📈 Let's Grow Together!
 
 </div>
