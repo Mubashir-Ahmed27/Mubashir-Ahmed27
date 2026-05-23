@@ -32,7 +32,7 @@
 
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-I'm a dedicated **Frontend Developer** with expertise in **HTML, CSS, and JavaScript**, currently expanding my skills into full-stack development. I'm committed to understanding **CS Fundamentals** and staying ahead with emerging technologies in **AI/ML**.
+I'm a dedicated **Frontend Developer** with expertise in **HTML, CSS, and JavaScript**, currently expanding my skills into full-stack development. I'm committed to understanding **CS Fundamentals** and building scalable applications.
 
 - 🎯 **Current Focus**: Mastering full-stack development and web architecture
 - 🧠 **Interests**: Modern web technologies, clean code, user-centric design
@@ -102,13 +102,18 @@ I'm a dedicated **Frontend Developer** with expertise in **HTML, CSS, and JavaSc
 
 <div align="center">
 
-```
-📱 Digital-Clock          🎨 Random-Color-Generator
-🍔 Restaurant-App         🍕 Zomato-clone
-🧂 Salt-n-Pepper-clone    🎭 3-Themes
-🧮 Calculator             📋 Student-Registration-Form
-🖼️ Curator                📊 Positivus
-```
+| Project | Repository |
+|---------|-----------|
+| 📱 Digital-Clock | [Link](https://github.com/Mubashir-Ahmed27/Digital-Clock) |
+| 🎨 Random-Color-Generator | [Link](https://github.com/Mubashir-Ahmed27/Random-Color-Generator) |
+| 🍔 Restaurant-App | [Link](https://github.com/Mubashir-Ahmed27/Restaurant-App) |
+| 🍕 Zomato-clone | [Link](https://github.com/Mubashir-Ahmed27/Zomato-clone) |
+| 🧂 Salt-n-Pepper-clone | [Link](https://github.com/Mubashir-Ahmed27/Salt-n-Pepper-clone) |
+| 🎭 3-Themes | [Link](https://github.com/Mubashir-Ahmed27/3-Themes) |
+| 🧮 Calculator | [Link](https://github.com/Mubashir-Ahmed27/Calculator) |
+| 📋 Student-Registration-Form | [Link](https://github.com/Mubashir-Ahmed27/Student-Registration-Form) |
+| 🖼️ Curator | [Link](https://github.com/Mubashir-Ahmed27/Curator) |
+| 📊 Positivus | [Link](https://github.com/Mubashir-Ahmed27/Positivus) |
 
 </div>
 
