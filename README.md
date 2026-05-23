@@ -4,10 +4,7 @@
 
 ![Visitors](https://komarev.com/ghpvc/?username=Mubashir-Ahmed27)
 
-<img src="https://github.com/Mubashir-Ahmed27.png" alt="Profile Picture" width="150" height="150" style="border-radius: 50%; margin-bottom: 20px;" />
-
-<p><strong>Frontend Developer | Full Stack Dev Learner | Aspiring Full Stack Architect</strong></p>
-<p>Passionate about building beautiful, functional web applications and exploring modern web technologies</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;Future+Full+Stack+Dev;Beyond+AI%2FML+Engineer" alt="Typing Animation" />
 
 <!-- Animated divider -->
 <img src="https://media.giphy.com/media/ObNTQZHyImJ0c/giphy.gif" width="50" alt="code" />
@@ -32,7 +29,7 @@
 
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-I'm a dedicated **Frontend Developer** with expertise in **HTML, CSS, and JavaScript**, currently expanding my skills into full-stack development. I'm committed to understanding **CS Fundamentals** and building scalable applications.
+I'm a dedicated **Frontend Developer** with expertise in **HTML, CSS, and JavaScript**, currently expanding my skills into full-stack development. I'm committed to understanding **CS Fundamentals** and building applications that make a difference.
 
 - 🎯 **Current Focus**: Mastering full-stack development and web architecture
 - 🧠 **Interests**: Modern web technologies, clean code, user-centric design
