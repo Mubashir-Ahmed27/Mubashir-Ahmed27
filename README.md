@@ -4,7 +4,7 @@
 
 ![Visitors](https://komarev.com/ghpvc/?username=Mubashir-Ahmed27)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;Future+Full+Stack+Dev;Beyond+AI%2FML+Engineer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;Future+Full+Stack+Dev;Beyond+AI%2FML+Engineer" alt="T[...]
 
 </div>
 
@@ -26,7 +26,7 @@
 
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-I'm a dedicated **Frontend Developer** with expertise in **HTML, CSS, and JavaScript**, currently expanding my skills into full-stack development. I'm committed to understanding **CS Fundamentals** and building scalable applications.
+I'm a dedicated **Frontend Developer** with expertise in **HTML, CSS, and JavaScript**, currently expanding my skills into full-stack development. I'm committed to understanding **CS Fundamentals** an[...]
 
 - 🎯 **Current Focus**: Mastering full-stack development and web architecture
 - 🧠 **Interests**: Modern web technologies, clean code, user-centric design
@@ -153,10 +153,10 @@ This quote reminds me that true knowledge is about applying what we learn for th
 
 ### I'm Always Excited To:
 
-- 💬 Discuss web development and technology
-- 🤝 Collaborate on interesting projects
-- 📝 Share knowledge and learn from others
-- 🚀 Build something amazing together
+1. 💬 Discuss web development and technology
+2. 🤝 Collaborate on interesting projects
+3. 📝 Share knowledge and learn from others
+4. 🚀 Build something amazing together
 
 </div>
 
@@ -166,11 +166,11 @@ This quote reminds me that true knowledge is about applying what we learn for th
 
 <div align="center">
 
-- ⚡ I believe that *consistent practice* beats *intensive bursts*
-- 🎮 I build projects to learn, not just for the sake of building
-- 📖 I love reading documentation and understanding the "why" behind code
-- 🌍 I'm passionate about making technology accessible to everyone
-- 🤲 I believe in giving back to the community
+1. ⚡ I believe that *consistent practice* beats *intensive bursts*
+2. 🎮 I build projects to learn, not just for the sake of building
+3. 📖 I love reading documentation and understanding the "why" behind code
+4. 🌍 I'm passionate about making technology accessible to everyone
+5. 🤲 I believe in giving back to the community
 
 </div>
 
