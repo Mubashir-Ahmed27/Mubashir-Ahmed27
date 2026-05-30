@@ -85,7 +85,7 @@ I'm a dedicated **Frontend Developer** with expertise in **HTML, CSS, and JavaSc
 | [**Mubashir-Ahmed-Portfolio**](https://github.com/Mubashir-Ahmed27/Mubashir-Ahmed-Portfolio) | Personal portfolio showcasing my work and skills | HTML, CSS, JavaScript |
 | [**Weather-App**](https://github.com/Mubashir-Ahmed27/Weather-App) | Real-time weather application with API integration | JavaScript, API |
 | [**Todo-App**](https://github.com/Mubashir-Ahmed27/Todo-App) | Feature-rich task management application | HTML, CSS, JavaScript |
-| [**Chess-Game**](https://github.com/Mubashir-Ahmed27/Chess-Game) | Interactive chess game implementation | HTML, CSS, JavaScript |
+| [**Chess-Game**](https://github.com/Mubashir-Ahmed27/Chess-Game) | Interactive chess game implementation | HTML and CSS |
 | [**Adhan-App**](https://github.com/Mubashir-Ahmed27/Adhan-App) | Prayer times application | HTML, CSS, JavaScript |
 
 <br clear="left" />
@@ -124,111 +124,9 @@ I'm a dedicated **Frontend Developer** with expertise in **HTML, CSS, and JavaSc
 
 ## 📊 GitHub Statistics
 
-### 📈 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mubashir-Ahmed27&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-
-</div>
-
-### 💬 Top Languages
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mubashir-Ahmed27&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
-### 🔥 GitHub Streak
-
 <div align="center">
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mubashir-Ahmed27&theme=radical&hide_border=true)
-
-</div>
-
----
-
-## 🐍 GitHub Contribution Snake Chart
-
-<div align="center">
-
-![snake gif](https://github.com/Mubashir-Ahmed27/Mubashir-Ahmed27/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
-## 🎓 What I'm Working On
-
-<div align="center">
-
-<style>
-  @keyframes progress-animation {
-    0% { width: 0%; }
-    100% { width: var(--progress); }
-  }
-  
-  .progress-container {
-    background-color: #0d1117;
-    border-radius: 10px;
-    margin: 8px 0;
-    overflow: hidden;
-    border: 1px solid #30363d;
-  }
-  
-  .progress-bar {
-    height: 24px;
-    background: linear-gradient(90deg, #00d9ff, #00a8ff);
-    animation: progress-animation 2s ease-in-out forwards;
-    display: flex;
-    align-items: center;
-    justify-content: flex-end;
-    padding-right: 8px;
-    color: #0d1117;
-    font-weight: bold;
-    font-size: 12px;
-    box-shadow: 0 0 10px rgba(0, 217, 255, 0.5);
-    border-radius: 10px;
-  }
-</style>
-
-**🏗️ Building responsive web applications**
-<div class="progress-container">
-  <div class="progress-bar" style="--progress: 80%; width: 80%;">80%</div>
-</div>
-
-**📚 Learning backend technologies**
-<div class="progress-container">
-  <div class="progress-bar" style="--progress: 60%; width: 60%;">60%</div>
-</div>
-
-**⚛️ Master React & Full-Stack**
-<div class="progress-container">
-  <div class="progress-bar" style="--progress: 20%; width: 20%;">20%</div>
-</div>
-
-**🐍 Python & AI/ML Fundamentals**
-<div class="progress-container">
-  <div class="progress-bar" style="--progress: 15%; width: 15%;">15%</div>
-</div>
-
-**🐳 Docker & DevOps**
-<div class="progress-container">
-  <div class="progress-bar" style="--progress: 0%; width: 5%;">0%</div>
-</div>
-
-**☁️ AWS & Cloud Computing**
-<div class="progress-container">
-  <div class="progress-bar" style="--progress: 0%; width: 5%;">0%</div>
-</div>
-
-| Status | Description |
-|--------|-------------|
-| 🚀 Active | Currently working on this goal |
-| 📌 Starting | Just beginning to explore |
-| 📌 Planned | On the roadmap for future |
 
 </div>
 
