@@ -153,10 +153,10 @@ This quote reminds me that true knowledge is about applying what we learn for th
 
 ### I'm Always Excited To:
 
-- 💬 Discuss web development and technology
-- 🤝 Collaborate on interesting projects
-- 📝 Share knowledge and learn from others
-- 🚀 Build something amazing together
+ 💬 Discuss web development and technology<br />
+ 🤝 Collaborate on interesting projects<br />
+ 📝 Share knowledge and learn from others<br />
+ 🚀 Build something amazing together<br />
 
 </div>
 
@@ -166,11 +166,11 @@ This quote reminds me that true knowledge is about applying what we learn for th
 
 <div align="center">
 
-- ⚡ I believe that *consistent practice* beats *intensive bursts*
-- 🎮 I build projects to learn, not just for the sake of building
-- 📖 I love reading documentation and understanding the "why" behind code
-- 🌍 I'm passionate about making technology accessible to everyone
-- 🤲 I believe in giving back to the community
+ ⚡ I believe that *consistent practice* beats *intensive bursts*<br />
+ 🎮 I build projects to learn, not just for the sake of building<br />
+ 📖 I love reading documentation and understanding the "why" behind code<br />
+ 🌍 I'm passionate about making technology accessible to everyone<br />
+ 🤲 I believe in giving back to the community<br />
 
 </div>
 
