@@ -92,8 +92,6 @@ I'm a dedicated **Frontend Developer** with expertise in **HTML, CSS, and JavaSc
 
 ### 🏗️ Other Notable Projects
 
-<div align="center">
-
 | Project | Repository |
 |---------|-----------|
 | 📱 Digital-Clock | [Link](https://github.com/Mubashir-Ahmed27/Digital-Clock) |
@@ -106,19 +104,6 @@ I'm a dedicated **Frontend Developer** with expertise in **HTML, CSS, and JavaSc
 | 📋 Student-Registration-Form | [Link](https://github.com/Mubashir-Ahmed27/Student-Registration-Form) |
 | 🖼️ Curator | [Link](https://github.com/Mubashir-Ahmed27/Curator) |
 | 📊 Positivus | [Link](https://github.com/Mubashir-Ahmed27/Positivus) |
-
-</div>
-
----
-
-## 📖 Learning & Resources
-
-<!-- <img align="right" alt="Learning" width="250" src="https://media.giphy.com/media/L1R1tvI9wayy0JFOLR/giphy.gif" /> -->
-
-- 🐙 [**Prompt-Engineering-Guide**](https://github.com/Mubashir-Ahmed27/Prompt-Engineering-Guide) - Guides, papers, lectures, notebooks, and resources
-- 📚 [**modern-web-hybrid-app-course**](https://github.com/Mubashir-Ahmed27/modern-web-hybrid-app-course) - Course materials and learning resources
-
-<br clear="right" />
 
 ---
 
