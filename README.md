@@ -10,25 +10,25 @@
 
 ---
 
-## 📞 Connect With Me
+## <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/solid/phone.svg" width="18" height="18" alt="phone" style="vertical-align:middle;margin-right:8px;" /> Connect With Me
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/mubashir-ahmed-41475b367/" title="LinkedIn">
-  <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/brands/linkedin.svg" width="36" height="36" alt="LinkedIn" />
+  <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/brands/linkedin.svg" width="28" height="28" alt="LinkedIn" style="margin:0 8px;" />
 </a>
 <a href="mailto:mubashirahmed12569@gmail.com" title="Email">
-  <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/solid/envelope.svg" width="36" height="36" alt="Email" />
+  <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/solid/envelope.svg" width="28" height="28" alt="Email" style="margin:0 8px;" />
 </a>
 <a href="https://github.com/Mubashir-Ahmed27" title="GitHub">
-  <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/brands/github.svg" width="36" height="36" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/brands/github.svg" width="28" height="28" alt="GitHub" style="margin:0 8px;" />
 </a>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/solid/rocket.svg" width="18" height="18" alt="rocket" style="vertical-align:middle;margin-right:8px;" /> About Me
 
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
@@ -44,7 +44,7 @@ I'm a dedicated **Frontend Developer** with expertise in **HTML, CSS, and JavaSc
 
 ---
 
-## 💻 Tech Stack & Tools
+## <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/solid/laptop-code.svg" width="18" height="18" alt="laptop-code" style="vertical-align:middle;margin-right:8px;" /> Tech Stack & Tools
 
 ### Currently Working With
 
@@ -82,9 +82,9 @@ I'm a dedicated **Frontend Developer** with expertise in **HTML, CSS, and JavaSc
 
 ---
 
-## 🎨 Featured Projects
+## <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/solid/star.svg" width="18" height="18" alt="star" style="vertical-align:middle;margin-right:8px;" /> Featured Projects
 
-### 🌟 Top Projects
+### <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/solid/star.svg" width="16" height="16" alt="star" style="vertical-align:middle;margin-right:6px;" /> Top Projects
 
 | Project | Description | Tech Stack |
 |---------|-------------|-----------|
@@ -100,20 +100,20 @@ I'm a dedicated **Frontend Developer** with expertise in **HTML, CSS, and JavaSc
 
 | Project | Repository |
 |---------|-----------|
-| 📱 Digital-Clock | [Link](https://github.com/Mubashir-Ahmed27/Digital-Clock) |
-| 🎨 Random-Color-Generator | [Link](https://github.com/Mubashir-Ahmed27/Random-Color-Generator) |
-| 🍔 Restaurant-App | [Link](https://github.com/Mubashir-Ahmed27/Restaurant-App) |
-| 🍕 Zomato-clone | [Link](https://github.com/Mubashir-Ahmed27/Zomato-clone) |
-| 🧂 Salt-n-Pepper-clone | [Link](https://github.com/Mubashir-Ahmed27/Salt-n-Pepper-clone) |
-| 🎭 3-Themes | [Link](https://github.com/Mubashir-Ahmed27/3-Themes) |
-| 🧮 Calculator | [Link](https://github.com/Mubashir-Ahmed27/Calculator) |
-| 📋 Student-Registration-Form | [Link](https://github.com/Mubashir-Ahmed27/Student-Registration-Form) |
-| 🖼️ Curator | [Link](https://github.com/Mubashir-Ahmed27/Curator) |
-| 📊 Positivus | [Link](https://github.com/Mubashir-Ahmed27/Positivus) |
+| <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/solid/mobile-alt.svg" width="16" height="16" alt="mobile" style="vertical-align:middle;margin-right:6px;" /> Digital-Clock | [Link](https://github.com/Mubashir-Ahmed27/Digital-Clock) |
+| <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/solid/palette.svg" width="16" height="16" alt="palette" style="vertical-align:middle;margin-right:6px;" /> Random-Color-Generator | [Link](https://github.com/Mubashir-Ahmed27/Random-Color-Generator) |
+| <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/solid/utensils.svg" width="16" height="16" alt="utensils" style="vertical-align:middle;margin-right:6px;" /> Restaurant-App | [Link](https://github.com/Mubashir-Ahmed27/Restaurant-App) |
+| <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/solid/utensils.svg" width="16" height="16" alt="utensils" style="vertical-align:middle;margin-right:6px;" /> Zomato-clone | [Link](https://github.com/Mubashir-Ahmed27/Zomato-clone) |
+| <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/solid/atom.svg" width="16" height="16" alt="atom" style="vertical-align:middle;margin-right:6px;" /> Salt-n-Pepper-clone | [Link](https://github.com/Mubashir-Ahmed27/Salt-n-Pepper-clone) |
+| <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/solid/gamepad.svg" width="16" height="16" alt="gamepad" style="vertical-align:middle;margin-right:6px;" /> 3-Themes | [Link](https://github.com/Mubashir-Ahmed27/3-Themes) |
+| <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/solid/calculator.svg" width="16" height="16" alt="calculator" style="vertical-align:middle;margin-right:6px;" /> Calculator | [Link](https://github.com/Mubashir-Ahmed27/Calculator) |
+| <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/solid/clipboard-list.svg" width="16" height="16" alt="clipboard" style="vertical-align:middle;margin-right:6px;" /> Student-Registration-Form | [Link](https://github.com/Mubashir-Ahmed27/Student-Registration-Form) |
+| <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/solid/image.svg" width="16" height="16" alt="image" style="vertical-align:middle;margin-right:6px;" /> Curator | [Link](https://github.com/Mubashir-Ahmed27/Curator) |
+| <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/solid/chart-bar.svg" width="16" height="16" alt="chart" style="vertical-align:middle;margin-right:6px;" /> Positivus | [Link](https://github.com/Mubashir-Ahmed27/Positivus) |
 
 ---
 
-## 📊 GitHub Statistics
+## <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/solid/chart-bar.svg" width="18" height="18" alt="stats" style="vertical-align:middle;margin-right:8px;" /> GitHub Statistics
 
 <div align="center">
 
@@ -123,7 +123,7 @@ I'm a dedicated **Frontend Developer** with expertise in **HTML, CSS, and JavaSc
 
 ---
 
-## 💡 Islamic Quote
+## <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/solid/quote-left.svg" width="18" height="18" alt="quote" style="vertical-align:middle;margin-right:8px;" /> Islamic Quote
 
 <div align="center">
 
@@ -138,7 +138,7 @@ This quote reminds me that true knowledge is about applying what we learn for th
 
 ---
 
-## 🤝 Let's Connect & Collaborate
+## <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/solid/hands-helping.svg" width="18" height="18" alt="collab" style="vertical-align:middle;margin-right:8px;" /> Let's Connect & Collaborate
 
 <div align="center">
 
@@ -153,7 +153,7 @@ This quote reminds me that true knowledge is about applying what we learn for th
 
 ---
 
-## 🏆 Fun Facts
+## <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/solid/trophy.svg" width="18" height="18" alt="trophy" style="vertical-align:middle;margin-right:8px;" /> Fun Facts
 
 <div align="center">
 
@@ -169,7 +169,7 @@ This quote reminds me that true knowledge is about applying what we learn for th
 
 <div align="center">
 
-### Made with ❤️ by Mubashir Ahmed
+### Made with <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/solid/heart.svg" width="16" height="16" alt="heart" style="vertical-align:middle;margin:0 6px;" /> by Mubashir Ahmed
 
 *"Every expert was once a beginner. Keep learning, keep growing!"* 🚀
 
@@ -177,7 +177,7 @@ This quote reminds me that true knowledge is about applying what we learn for th
 
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100" alt="happy coding" />
 
-**Happy Coding! 💻**
+<p><img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/solid/laptop-code.svg" width="16" height="16" alt="laptop" style="vertical-align:middle;margin-right:6px;" /> <strong>Happy Coding!</strong></p>
 
 </div>
 
@@ -185,6 +185,6 @@ This quote reminds me that true knowledge is about applying what we learn for th
 
 <div align="center">
 
-### 📈 Let's Grow Together!
+### <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/solid/chart-line.svg" width="18" height="18" alt="grow" style="vertical-align:middle;margin-right:8px;" /> Let's Grow Together!
 
 </div>
