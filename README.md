@@ -14,9 +14,15 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mubashir-ahmed-41475b367/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mubashirahmed12569@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mubashir-Ahmed27)
+<a href="https://www.linkedin.com/in/mubashir-ahmed-41475b367/" title="LinkedIn">
+  <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/brands/linkedin.svg" width="36" height="36" alt="LinkedIn" />
+</a>
+<a href="mailto:mubashirahmed12569@gmail.com" title="Email">
+  <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/solid/envelope.svg" width="36" height="36" alt="Email" />
+</a>
+<a href="https://github.com/Mubashir-Ahmed27" title="GitHub">
+  <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/brands/github.svg" width="36" height="36" alt="GitHub" />
+</a>
 
 </div>
 
@@ -26,7 +32,7 @@
 
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-I'm a dedicated **Frontend Developer** with expertise in **HTML, CSS, and JavaScript**, currently expanding my skills into full-stack development. I'm committed to understanding **CS Fundamentals** and building scalable applications.
+I'm a dedicated **Frontend Developer** with expertise in **HTML, CSS, and JavaScript**, currently expanding my skills into full-stack development. I'm committed to understanding **CS Fundamentals** and applying best practices to build accessible, performant, and maintainable web applications.
 
 - 🎯 **Current Focus**: Mastering full-stack development and web architecture
 - 🧠 **Interests**: Modern web technologies, clean code, user-centric design
