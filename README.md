@@ -15,13 +15,13 @@
 <div align="center">
 
 <a href="https://www.linkedin.com/in/mubashir-ahmed-41475b367/" title="LinkedIn">
-  <img src="assets/icons/linkedin.svg" alt="LinkedIn" title="LinkedIn" width="28" height="28" style="margin:0 8px;" />
+  <img src="assets/icons/linkedin.svg" alt="LinkedIn" title="LinkedIn" width="28" height="28" style="vertical-align:middle;margin:0 8px;" /><b>LinkedIn</b> &nbsp;
 </a>
 <a href="mailto:mubashirahmed12569@gmail.com" title="Email">
-  <img src="assets/icons/email.svg" alt="Email" title="Email" width="28" height="28" style="margin:0 8px;" />
+  <img src="assets/icons/email.svg" alt="Email" title="Email" width="28" height="28" style="vertical-align:middle;margin:0 8px;" /><b>Email</b> &nbsp;
 </a>
 <a href="https://github.com/Mubashir-Ahmed27" title="GitHub">
-  <img src="assets/icons/github-chip.svg" alt="GitHub" title="GitHub" width="28" height="28" style="margin:0 8px;" />
+  <img src="assets/icons/github-chip.svg" alt="GitHub" title="GitHub" width="28" height="28" style="vertical-align:middle;margin:0 8px;" /><b>GitHub</b> &nbsp;
 </a>
 
 </div>
@@ -54,7 +54,8 @@ I'm a self-learner at heart. I **build to understand**, **read to refine**, and 
 
 <img src="assets/icons/html5.svg" alt="HTML5" title="HTML5" width="26" height="26" style="vertical-align:middle;margin:0 3px;" /> <b>HTML5</b> &nbsp;
 <img src="assets/icons/css3.svg" alt="CSS3" title="CSS3" width="26" height="26" style="vertical-align:middle;margin:0 3px;" /> <b>CSS3</b> &nbsp;
-<img src="assets/icons/javascript.svg" alt="JavaScript" title="JavaScript" width="26" height="26" style="vertical-align:middle;margin:0 3px;" /> <b>JavaScript</b>
+<img src="assets/icons/javascript.svg" alt="JavaScript" title="JavaScript" width="26" height="26" style="vertical-align:middle;margin:0 3px;" /> <b>JavaScript</b> &nbsp;
+<img src="assets/icons/bootstrap.svg" alt="Bootstrap" title="Bootstrap" width="26" height="26" style="vertical-align:middle;margin:0 3px;" /> <b>Bootstrap</b>
 
 </div>
 
@@ -66,7 +67,9 @@ I'm a self-learner at heart. I **build to understand**, **read to refine**, and 
 <img src="assets/icons/nodejs.svg" alt="Node.js" title="Node.js" width="26" height="26" style="vertical-align:middle;margin:0 3px;" /> <b>Node.js</b> &nbsp;
 <img src="assets/icons/mongodb.svg" alt="MongoDB" title="MongoDB" width="26" height="26" style="vertical-align:middle;margin:0 3px;" /> <b>MongoDB</b> &nbsp;
 <img src="assets/icons/typescript.svg" alt="TypeScript" title="TypeScript" width="26" height="26" style="vertical-align:middle;margin:0 3px;" /> <b>TypeScript</b> &nbsp;
-<img src="assets/icons/python.svg" alt="Python" title="Python" width="26" height="26" style="vertical-align:middle;margin:0 3px;" /> <b>Python</b>
+<img src="assets/icons/python.svg" alt="Python" title="Python" width="26" height="26" style="vertical-align:middle;margin:0 3px;" /> <b>Python</b> &nbsp;
+<img src="assets/icons/tailwindcss.svg" alt="Tailwind CSS" title="Tailwind CSS" width="26" height="26" style="vertical-align:middle;margin:0 3px;" /> <b>Tailwind CSS</b> &nbsp;
+<img src="assets/icons/vite.svg" alt="Vite" title="Vite" width="26" height="26" style="vertical-align:middle;margin:0 3px;" /> <b>Vite</b>
 
 </div>
 
