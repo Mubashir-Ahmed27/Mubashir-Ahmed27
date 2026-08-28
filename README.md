@@ -40,7 +40,7 @@ I'm a dedicated **Frontend Developer** with expertise in **HTML, CSS, and JavaSc
 - 💡 **Passion**: Creating elegant solutions to real-world problems
 - 🤝 **Community**: Always open to collaboration and knowledge sharing
 
-<br clear="right" />
+<br style="clear:right;" />
 
 ---
 
@@ -94,7 +94,7 @@ I'm a dedicated **Frontend Developer** with expertise in **HTML, CSS, and JavaSc
 | [**Chess-Game**](https://github.com/Mubashir-Ahmed27/Chess-Game) | Interactive chess game implementation | HTML and CSS |
 | [**Adhan-App**](https://github.com/Mubashir-Ahmed27/Adhan-App) | Prayer times application | HTML, CSS, JavaScript |
 
-<br clear="left" />
+<br />
 
 ### 🏗️ Other Notable Projects
 
@@ -117,7 +117,7 @@ I'm a dedicated **Frontend Developer** with expertise in **HTML, CSS, and JavaSc
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mubashir-Ahmed27&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Mubashir-Ahmed27&theme=radical&hide_border=true)
 
 </div>
 
