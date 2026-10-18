@@ -55,43 +55,31 @@ I'm a self-learner at heart. I **build to understand**, **read to refine**, and 
 <img src="assets/icons/html5.svg" alt="HTML5" title="HTML5" width="26" height="26" style="vertical-align:middle;margin:0 3px;" /> <b>HTML5</b> &nbsp;
 <img src="assets/icons/css3.svg" alt="CSS3" title="CSS3" width="26" height="26" style="vertical-align:middle;margin:0 3px;" /> <b>CSS3</b> &nbsp;
 <img src="assets/icons/javascript.svg" alt="JavaScript" title="JavaScript" width="26" height="26" style="vertical-align:middle;margin:0 3px;" /> <b>JavaScript</b> &nbsp;
-<img src="assets/icons/bootstrap.svg" alt="Bootstrap" title="Bootstrap" width="26" height="26" style="vertical-align:middle;margin:0 3px;" /> <b>Bootstrap</b>
-
+<img src="assets/icons/typescript.svg" alt="TypeScript" title="TypeScript" width="26" height="26" style="vertical-align:middle;margin:0 3px;" /> <b>TypeScript</b> &nbsp;
+<img src="assets/icons/bootstrap.svg" alt="Bootstrap" title="Bootstrap" width="26" height="26" style="vertical-align:middle;margin:0 3px;" /> <b>Bootstrap</b> &nbsp;
+<img src="assets/icons/tailwindcss.svg" alt="Tailwind CSS" title="Tailwind CSS" width="26" height="26" style="vertical-align:middle;margin:0 3px;" /> <b>Tailwind CSS</b> &nbsp;
+<img src="assets/icons/react.svg" alt="React" title="React" width="26" height="26" style="vertical-align:middle;margin:0 3px;" /> <b>React</b> &nbsp;
+<img src="assets/icons/vite.svg" alt="Vite" title="Vite" width="26" height="26" style="vertical-align:middle;margin:0 3px;" /> <b>Vite</b> &nbsp;
+<img src="assets/icons/nodejs.svg" alt="Node.js" title="Node.js" width="26" height="26" style="vertical-align:middle;margin:0 3px;" /> <b>Node.js</b> &nbsp;
+<img src="assets/icons/express.svg" alt="Express" title="Express" width="26" height="26" style="vertical-align:middle;margin:0 3px;" /> <b>Express</b> &nbsp;
+<img src="assets/icons/mongodb.svg" alt="MongoDB" title="MongoDB" width="26" height="26" style="vertical-align:middle;margin:0 3px;" /> <b>MongoDB</b> &nbsp;
+<img src="assets/icons/graphql.svg" alt="graphql" title="graphql" width="26" height="26" style="vertical-align:middle;margin:0 3px;" /> <b>GraphQL</b> &nbsp;
+<img src="assets/icons/postgresql.svg" alt="PostgreSQL" title="PostgreSQL" width="26" height="26" style="vertical-align:middle;margin:0 3px;" /> <b>PostgreSQL</b> &nbsp;
 </div>
 
 ### 📈 Learning & Exploring
 
 <div align="center">
-
-<img src="assets/icons/react.svg" alt="React" title="React" width="26" height="26" style="vertical-align:middle;margin:0 3px;" /> <b>React</b> &nbsp;
-<img src="assets/icons/tailwindcss.svg" alt="Tailwind CSS" title="Tailwind CSS" width="26" height="26" style="vertical-align:middle;margin:0 3px;" /> <b>Tailwind CSS</b> &nbsp;
-<img src="assets/icons/vite.svg" alt="Vite" title="Vite" width="26" height="26" style="vertical-align:middle;margin:0 3px;" /> <b>Vite</b> &nbsp;
-<img src="assets/icons/nodejs.svg" alt="Node.js" title="Node.js" width="26" height="26" style="vertical-align:middle;margin:0 3px;" /> <b>Node.js</b> &nbsp;
-<img src="assets/icons/mongodb.svg" alt="MongoDB" title="MongoDB" width="26" height="26" style="vertical-align:middle;margin:0 3px;" /> <b>MongoDB</b> &nbsp;
-<img src="assets/icons/typescript.svg" alt="TypeScript" title="TypeScript" width="26" height="26" style="vertical-align:middle;margin:0 3px;" /> <b>TypeScript</b> &nbsp;
-<img src="assets/icons/python.svg" alt="Python" title="Python" width="26" height="26" style="vertical-align:middle;margin:0 3px;" /> <b>Python</b>
-
-</div>
-
-### 🧩 Frameworks & Libraries
-
-<div align="center">
-
-<img src="assets/icons/react.svg" alt="React" title="React" width="26" height="26" style="vertical-align:middle;margin:0 3px;" /> <b>React</b> &nbsp;
-<img src="assets/icons/tailwindcss.svg" alt="Tailwind CSS" title="Tailwind CSS" width="26" height="26" style="vertical-align:middle;margin:0 3px;" /> <b>Tailwind CSS</b> &nbsp;
-<img src="assets/icons/vite.svg" alt="Vite" title="Vite" width="26" height="26" style="vertical-align:middle;margin:0 3px;" /> <b>Vite</b> &nbsp;
-<img src="assets/icons/bootstrap.svg" alt="Bootstrap" title="Bootstrap" width="26" height="26" style="vertical-align:middle;margin:0 3px;" /> <b>Bootstrap</b> &nbsp;
+  
 <img src="assets/icons/jquery.svg" alt="jQuery" title="jQuery" width="26" height="26" style="vertical-align:middle;margin:0 3px;" /> <b>jQuery</b> &nbsp;
 <img src="assets/icons/nextjs.svg" alt="Next.js" title="Next.js" width="26" height="26" style="vertical-align:middle;margin:0 3px;" /> <b>Next.js</b> &nbsp;
-<img src="assets/icons/express.svg" alt="Express" title="Express" width="26" height="26" style="vertical-align:middle;margin:0 3px;" /> <b>Express</b>
-
+<img src="assets/icons/python.svg" alt="Python" title="Python" width="26" height="26" style="vertical-align:middle;margin:0 3px;" /> <b>Python</b>
 </div>
 
 ### 🚀 Future Learning Path
 
 <div align="center">
 
-<img src="assets/icons/postgresql.svg" alt="PostgreSQL" title="PostgreSQL" width="26" height="26" style="vertical-align:middle;margin:0 3px;" /> <b>PostgreSQL</b> &nbsp;
 <img src="assets/icons/docker.svg" alt="Docker" title="Docker" width="26" height="26" style="vertical-align:middle;margin:0 3px;" /> <b>Docker</b> &nbsp;
 <img src="assets/icons/aws.svg" alt="Amazon Web Services" title="Amazon Web Services" width="26" height="26" style="vertical-align:middle;margin:0 3px;" /> <b>AWS</b> &nbsp;
 <img src="assets/icons/tensorflow.svg" alt="TensorFlow" title="TensorFlow" width="26" height="26" style="vertical-align:middle;margin:0 3px;" /> <b>TensorFlow</b>
